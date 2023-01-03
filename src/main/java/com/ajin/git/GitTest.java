@@ -7,5 +7,6 @@ package com.ajin.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello ajin");
+        System.out.println("hello ajin2");
     }
 }
